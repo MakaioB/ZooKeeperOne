@@ -13,6 +13,17 @@ public class MammalTest {
 		
 		g.climb(1);
 		g.displayEnergy();
+		
+//		GiantBat b = new GiantBat();
+//		
+//		b.fly(2);
+//		b.displayEnergy();
+//		
+//		b.eatHumans(2);
+//		b.displayEnergy();
+//		
+//		b.attackTown(3);
+//		b.displayEnergy();
 	}
 
 }
